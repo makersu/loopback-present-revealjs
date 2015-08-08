@@ -1,0 +1,8 @@
+{
+  "generator-reveal": {
+    "presentationTitle": "Getting started with LoopBack",
+    "packageVersion": "1.0.0",
+    "useSass": true,
+    "deployToGithubPages": false
+  }
+}
