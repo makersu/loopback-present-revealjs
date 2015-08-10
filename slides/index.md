@@ -1,10 +1,4 @@
 
-# Getting started with LoopBack
+# Getting started with [StrongLoop](http://strongloop.com/) [LoopBack](http://loopback.io/)
+Mark Su 2015
 
-From the terminal, pop in:
-
-  ```yo reveal:slide "Slide Title"```
-
-Available options:
-
- ```--markdown --attributes --notes```

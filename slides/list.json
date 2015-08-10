@@ -1,1 +1,16 @@
-["index.md"]
+[
+    "index.md",
+    [
+        "install-strongloop.md",
+        "create-new-application.md",
+        "create-models.md",
+        "run-the-application.md",
+        {
+            "filename": "explore-your-rest-api.md",
+            "attr": {
+                "data-background": "resources/helloworld-api-explorer.png"
+            }
+        }
+    ],
+    "use-api-explorer.md"
+]
